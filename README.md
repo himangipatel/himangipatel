@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![Himangi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangipatel&layout=compact&theme=merko)
 
 [![ImagePickerUtil](https://github-readme-stats.vercel.app/api/pin/?username=himangipatel&repo=ImagePickerUtil&theme=merko)](https://github.com/himangipatel/ImagePickerUtil)
-![ImagesPreview](https://github-readme-stats.vercel.app/api/pin/?username=himangipatel&repo=ImagesPreview&theme=merko) (https://github.com/himangipatel/ImagesPreview)
-![react-native-af-video-player](https://github-readme-stats.vercel.app/api/pin/?username=himangipatel&repo=react-native-af-video-player&theme=merko)
+[![ImagesPreview](https://github-readme-stats.vercel.app/api/pin/?username=himangipatel&repo=ImagesPreview&theme=merko)](https://github.com/himangipatel/ImagesPreview)
+[![react-native-af-video-player](https://github-readme-stats.vercel.app/api/pin/?username=himangipatel&repo=react-native-af-video-player&theme=merko)]
 (https://github.com/himangipatel/react-native-af-video-player)
 
 ![Himangi's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himangipatel&theme=merko)
