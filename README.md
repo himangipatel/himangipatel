@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Himangi's github stats](https://github-readme-stats.vercel.app/api?username=himangipatel&show_icons=true&theme=merko&hide_title=true)
 
-[![Himangi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangipatel&layout=compact&theme=merko)
+![Himangi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangipatel&layout=compact&theme=merko)
 
 ![ImagePickerUtil](https://github-readme-stats.vercel.app/api/pin/?username=himangipatel&repo=ImagePickerUtil&theme=merko)
 ![ImagesPreview](https://github-readme-stats.vercel.app/api/pin/?username=himangipatel&repo=ImagesPreview&theme=merko)
